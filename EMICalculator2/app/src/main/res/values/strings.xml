@@ -1,0 +1,90 @@
+<resources>
+    <string name="app_name">EMI Calculator2</string>
+    <string name="app_calculator">Financial Calculator</string>
+    <string name="app_EMI">Loan EMI Calculator</string>
+    <string name="emi_cal"> EMI Calculator</string>
+    <string name="h_loan">Loan Eligiblity</string>
+    <string name="h_emi">EMI</string>
+    <string name="rd_emi">Maturity Value</string>
+    <string name="rd_hint">Maturity Value</string>
+
+    <string name="h_tax">Tax</string>
+    <string name="loan_camp">Compare Loans</string>
+    <string name="finance_cal"> Finance Calculator</string>
+    <string name="fd_cal"> FD Calculator</string>
+    <string name="rd_cal"> RD Calculator</string>
+    <string name="ppf_cal"> PPF Calculator</string>
+    <string name="ppf_calculator"> PPF Calculator</string>
+    <string name="ppf_principle">Principle Amount</string>
+    <string name="ppf_invest"> Investment Amount</string>
+    <string name="ppf_princi">Enter Your Amount</string>
+    <string name="ppf_interest">Expected Rate Of Interest</string>
+    <string name="ppf_intere">max : 50% per annum</string>
+    <string name="ppf_loan">Loan Tenure</string>
+
+
+    <string name="sip">SIP Calculator</string>
+    <string name="h_simple">Simple Compund</string>
+    <string name="h_finder">Finder</string>
+    <string name="h_bank">Bank Finder</string>
+    <string name="h_atm">ATM Finder</string>
+    <string name="h_red">red</string>
+    <string name="fd_emi">EMI</string>
+
+    <string name="emi_inter">Max: 50% Per Annum </string>
+
+    <string name="emi_loantenure">Max : 30yr</string>
+    <string name="emi_button1">Calculate</string>
+    <string name="emi_button2">Clear</string>
+    <string name="emi_calcu">EMI Calculator</string>
+    <string name="fd_calcu">FD Calculator</string>
+
+    <string name="sip_calcu">SIP Calculator</string>
+    <string name="sip_principle"> SIP Amount</string>
+
+
+    <string name="emi_principle">Principle Amount</string>
+    <string name="rd_principle"> Investment Amount</string>
+    <string name="rd_princi">Enter Your Amount</string>
+    <string name="rd_interest">Expected Rate Of Interest</string>
+    <string name="rd_intere">max : 50% per annum</string>
+    <string name="rd_loan"> Tenure</string>
+
+    <string name="emi_princi">Enter Principle Amount</string>
+    <string name="emi_interest">Interest</string>
+    <string name="emi_intere">max : 50% per annum</string>
+    <string name="emi_loan">Loan Tenure</string>
+    <string name="emi_loante">max : 30yr</string>
+    <string name="emi_emi">EMI</string>
+    <string name="emi_total">Total Interest</string>
+    <string name="hint_months">Months</string>
+
+    <string name="hint_principal">Principal Amount ₹</string>
+    <string name="hint_interest">Interest rate per Year %</string>
+    <string name="hint_years">How Many Years</string>
+    <string name="hint_emi">EMI ₹</string>
+    <string name="hint_interest_total">Total Interest for Loan ₹</string>
+
+
+    <string name="interest_total">Total Interest</string>
+    <string name="total_principle">Total Principle</string>
+    <string name="fd_total">Total Principle</string>
+
+    <string name="total_princi">Total Principle</string>
+    <string name="emi_payment">Total Payement(Principle + Interest)</string>
+    <string name="total_payment">Total Payement</string>
+
+
+    <string name="Loan_eligiblity">Loan Eligiiblity</string>
+    <string name="loan_principle">Loan Amount</string>
+    <string name="loan_principal">Loan Amount ₹</string>
+    <string name="loan_payment">Payment </string>
+    <string name="loan_hint">Payment</string>
+    <string name="loan_car">Vehicle Loan</string>
+    <string name="loan_amount"> Loan Amount</string>
+    <string name="vehicle_loan">Vehicle Loan </string>
+    <string name="vehicle_emi">EMI</string>
+    <string name="vehicle_emihint">EMI</string>
+
+
+</resources>
